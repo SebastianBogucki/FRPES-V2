@@ -7,4 +7,18 @@ Flight Recorder and Parachute Ejection System V2 is second version of FRPES flig
 -Sending telemetry data through LoRa module  
 -Dual-deploy support  
 -Logging GPS position    
-<img width="900" height="481" alt="Zrzut ekranu 2025-10-10 185335" src="https://github.com/user-attachments/assets/baa2fecf-b98f-44aa-9ed0-d04069c87e30" />
+  
+# Data Options:  
+-Launch moment  
+-Peak velocity  
+-Peak Acceleration  
+-Motor Burn Time  
+-Coast Time  
+-Time to Apogee  
+-Apogee  
+-Roll Velocity  
+-Orientation  
+-Descent Velocity  
+-Parachute Deployment Failure  
+  
+<img width="900" height="481" alt="Zrzut ekranu 2025-10-10 185335" src="https://github.com/user-attachments/assets/baa2fecf-b98f-44aa-9ed0-d04069c87e30" />  
