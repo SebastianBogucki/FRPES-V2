@@ -6,5 +6,5 @@ Main functions of FRPESV2:
 -Telemetry logging on SD card  
 -Sending telemetry data through LoRa module  
 -Dual-deploy support  
--Logging GPS position  
+-Logging GPS position    
 <img width="900" height="481" alt="Zrzut ekranu 2025-10-10 185335" src="https://github.com/user-attachments/assets/baa2fecf-b98f-44aa-9ed0-d04069c87e30" />
