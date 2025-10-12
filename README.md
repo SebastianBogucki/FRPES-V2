@@ -42,3 +42,5 @@ Flight Recorder and Parachute Ejection System V2 is second version of FRPES flig
 # Second PCB Layer:
 
 <img width="821" height="757" alt="Zrzut ekranu 2025-10-10 210928" src="https://github.com/user-attachments/assets/b9813d25-7e08-48bd-a934-5c216b8a43b4" />  
+
+# First Test Flight Soon
