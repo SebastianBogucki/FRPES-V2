@@ -9,29 +9,29 @@ Flight Recorder and Parachute Ejection System V2 is second version of FRPES flig
 -Logging GPS position    
   
 # Data Options:  
--Altitude
--Velocity
--Acceleration
--Flight Time
--Roll Velocity
--Orientation
--GPS position
--Temperature
-
--Launch moment  
--Motor Burnout
--Apogee
--Drogue Prachute Deployment Success/Failure
--Main Parachute Deployment Success/Failure
-
-# Physical and Electrical properties:
--PCB diameter: 96mm
--PCB height: 1,6mm
--PCB + modules height: 18mm
--Weight: 60g (88g with antennas)
--Power consumption: ~200mA
--Recommended power supply voltage: 3,7V
+-Altitude  
+-Velocity  
+-Acceleration  
+-Flight Time  
+-Roll Velocity  
+-Orientation  
+-GPS position  
+-Temperature  
   
+-Launch moment    
+-Motor Burnout  
+-Apogee  
+-Drogue Prachute Deployment Success/Failure  
+-Main Parachute Deployment Success/Failure  
+  
+# Physical and Electrical properties:
+-PCB diameter: 96mm  
+-PCB height: 1,6mm  
+-PCB + modules height: 18mm  
+-Weight: 60g (88g with antennas)  
+-Power consumption: ~200mA  
+-Recommended power supply voltage: 3,7V  
+    
 <img width="900" height="481" alt="Zrzut ekranu 2025-10-10 185335" src="https://github.com/user-attachments/assets/baa2fecf-b98f-44aa-9ed0-d04069c87e30" />
 
 # First PCB Layer:
