@@ -29,7 +29,7 @@ Flight phases detection:
 -Main Parachute Deployment Success/Failure  
 
 # Modules:  
--Raspberry Pi Pico 2 microcontroller
+-Raspberry Pi Pico 2 microcontroller  
 -BMP280 Barometer  
 -LSM6DSO32 Gyroscope and accelerometer  
 -GY-NEO6MV2 GPS module  
