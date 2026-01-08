@@ -32,10 +32,12 @@ Flight phases detection:
 -Raspberry Pi Pico 2 microcontroller
 -BMP280 Barometer  
 -LSM6DSO32 Gyroscope and accelerometer  
--
-
--2 Led diodes  
--
+-GY-NEO6MV2 GPS module  
+-LoRa SX1278 radio module  
+-Two Led diodes    
+-Buzzer  
+-ARK connectors for drogue and main parachute ejection charges  
+-Pololu 2597 SD Card module  
   
 # Physical and Electrical properties:
 -PCB diameter: 96mm  
