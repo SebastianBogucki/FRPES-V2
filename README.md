@@ -57,4 +57,9 @@ Flight phases detection:
 
 <img width="821" height="757" alt="Zrzut ekranu 2025-10-10 210928" src="https://github.com/user-attachments/assets/b9813d25-7e08-48bd-a934-5c216b8a43b4" />  
 
+#FRPES V2 Prototype from march 2025:  
+This prototype was made to test whether the data is correct and it's saved correctly on SD card. This prototype was launch on Horizon rocket during it's fourth launch which unfortunately ended in ballistic landing and destruction of prototype.  
+<img width="2256" height="4000" alt="Obraz1" src="https://github.com/user-attachments/assets/bfea3512-bae7-4c66-abd2-5d9451686b43" />
+
+
 # First Test Flight Soon
