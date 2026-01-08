@@ -4,10 +4,10 @@ Flight Recorder and Parachute Ejection System V2 is second version of FRPES flig
 
 # Main functions of FRPESV2:  
 -Telemetry logging on SD card  
--Sending telemetry data through LoRa module  
--Dual-deployment support  
--Logging GPS position.  
--Parachute deployment failure detection.  
+-Sending telemetry data using LoRa module   
+-Dual-deployment  
+-Logging GPS position   
+-Parachute deployment failure detection  
   
 # Data Options:  
 -Altitude  
