@@ -23,8 +23,8 @@ Flight phases detection:
 -Launch moment    
 -Motor Burnout  
 -Apogee  
--Drogue Prachute Deployment 
--Main Parachute Deployment
+-Drogue Prachute Deployment  
+-Main Parachute Deployment  
 
 # Modules:  
 -Raspberry Pi Pico 2 microcontroller  
