@@ -9,7 +9,7 @@ Flight Recorder and Parachute Ejection System V2 is a succesor of the FRPES V1 f
 -Logging GPS position   
 -Parachute deployment failure detection  
   
-# Data Options:  
+# Telemetry data recorded by FRPES V2:  
 -Altitude  
 -Velocity  
 -Acceleration  
@@ -23,8 +23,8 @@ Flight phases detection:
 -Launch moment    
 -Motor Burnout  
 -Apogee  
--Drogue Prachute Deployment Success/Failure  
--Main Parachute Deployment Success/Failure  
+-Drogue Prachute Deployment 
+-Main Parachute Deployment
 
 # Modules:  
 -Raspberry Pi Pico 2 microcontroller  
